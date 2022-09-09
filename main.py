@@ -1,6 +1,6 @@
-import os, sys
+import os
 from http.server import HTTPServer, CGIHTTPRequestHandler
-import ssl # SSL module
+import ssl
 webdir = "."
 port = 443
 os.chdir(webdir)
