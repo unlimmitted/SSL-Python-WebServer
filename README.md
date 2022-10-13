@@ -1,4 +1,4 @@
-# SSL Python HTTP Server
+# SSL Python WebServer
 
 >Для хоста на Linux добавьте строку:
 
